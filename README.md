@@ -1,4 +1,4 @@
-## Software Engineer <img src="https://github-readme-stats.vercel.app/api/top-langs/username=dominicegginton" align="right">
+## Software Engineer <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicegginton&hide_border=true" align="right">
 
 :computer: Full-stack software engineer with a passion for UX
 
