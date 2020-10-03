@@ -1,6 +1,6 @@
 # Software Engineer <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicegginton&hide_border=true&layout=compact&langs_count=10" align="right">
 
-:computer: Full-stack software engineer with a passion for UX
+:computer: Full-stack software engineer with a passion for UX design and devops
 
 :octocat: Open-source advocate
 
